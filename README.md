@@ -30,8 +30,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: ---> [SOLUTION](https://your-solution-url.com)
-- Live Site URL: ---> [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: ---> [SOLUTION](https://www.frontendmentor.io/solutions/stats-preview-card-component-DVXU0I_wIk)
+- Live Site URL: ---> [LIVE SITE](https://godkingjay.github.io/frontendmentor.io_Stats-Preview-Card-Component/)
 
 ## My process
 
