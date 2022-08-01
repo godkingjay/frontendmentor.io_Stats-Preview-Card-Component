@@ -126,7 +126,7 @@ h2 {
     margin: 1.25rem;
 }
 
-.bottom-info > span {
+.bottom-info > div {
     margin: 0.25rem;
 }
 
@@ -198,7 +198,7 @@ h2 {
         gap: 2rem;
     }
 
-    .bottom-info > span {
+    .bottom-info > div {
         margin: 0;
     }
 }
